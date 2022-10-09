@@ -1,0 +1,110 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #fbfcf2;
+    padding-top: 70px;
+    margin: 0;
+}
+.navbar-brand {
+    font-size: 25px;
+}
+
+.name {
+    font-size: 6rem;
+}
+
+.main-header {
+    padding-top: 15%;
+    padding-bottom: 8%;
+    text-align: center;
+}
+
+.logos {
+    width: 50px;
+}
+
+.project-block {
+    background-image: linear-gradient(to bottom left, #c9eff5, #f6daf7);
+    border-radius: 25px;
+    margin: 50px;
+    text-align: center;
+    width: 600px;
+    height: auto;
+}
+
+.project-row {
+    margin: 50px;
+}
+
+.project-title {
+    padding-top: 30px;
+}
+
+.project-pics {
+    width: 85%;
+    height: auto;
+    border-radius: 15px;
+    margin: 30px;
+    border-style: double;
+}
+
+.project-description {
+    text-align: left;
+}
+
+.project-logos {
+    width: 40px;
+    padding-bottom: 20px;
+}
+
+.headers {
+    text-align: center;
+    background-image: linear-gradient(#fbfcf2, #faf9dc, #fbfcf2);
+    padding: 30px;
+}
+
+.carousel-icon {
+    background-color: rgba(70,70,70,.25);
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    padding: 15px;
+}
+
+.experience-block {
+    background-image: linear-gradient(to bottom left, #cef5d6, #c8ecf7);
+    border-radius: 25px;
+    margin: 50px;
+    text-align: center;
+    width: 600px;
+    height: auto;
+}
+
+.experience-logo {
+    width: 200px;
+    height: auto;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.experience-description {
+    text-align: left;
+    line-height: 30px;
+    padding-top: 20px;
+}
+
+.blank-block {
+    margin: 50px;
+    width: 600px;
+    height: 600px;
+}
+
+.footer {
+    background-color: #fadcca;
+    margin: 0;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
